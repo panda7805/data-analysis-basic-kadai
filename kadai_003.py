@@ -11,3 +11,6 @@ b1=np.array(b)
 #numpy.dot関数
 c=np.dot(a1,b1)
 print(c)
+
+#行列内における最大値
+np.max(c)
